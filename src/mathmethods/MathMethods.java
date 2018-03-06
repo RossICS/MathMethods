@@ -17,7 +17,7 @@ public class MathMethods {
      */
     public static void main(String[] args) {
         int myNumberRounded;
-        double myNumber=15.5;
+        double myNumber=15.4;
         double pi = Math.PI;
         myNumberRounded = (int) Math.round(myNumber);
 //        myNumber *=10; // this is the same as myNumber = myNumber *10;
